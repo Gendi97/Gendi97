@@ -2,7 +2,6 @@
 <h3 align="center">A passionate DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gendi97&label=Profile%20views&color=0e75b6&style=flat" alt="gendi97" /> </p>
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://user-images.githubusercontent.com/107524115/215980924-bca36bd5-a818-44fc-b393-0c59f5b28a3a.gif)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gendi97" alt="gendi97" /></a> </p>
 
@@ -22,3 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gendi97&show_icons=true&locale=en" alt="gendi97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gendi97&" alt="gendi97" /></p>
+
+
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966](https://user-images.githubusercontent.com/107524115/215981070-cbabef7d-ce88-41b7-b49c-56aab133410d.gif)
+
